@@ -13,15 +13,17 @@ Esta aplicación para Android te permite llevar un registro de tus cuentas perso
 
 - Edición y eliminación de gastos: Puedes editar o eliminar los gastos ingresados en caso de error o cambios.
 
+- Graficar una tabla de gastos
+
 ## Demo en línea
 
 Puedes probar la aplicación en línea a través de la plataforma de simulación de Android appetize. Haz clic en el siguiente enlace para acceder:
 
-[Enlace de demostración en línea](https://appetize.io/app/lmjmovr2ykvby6ftuu7j3iotp4)
+[Enlace de demostración en línea](https://appetize.io/app/s2nbe4tm4y6e3prc7rpa2leeji)
 
 ## Cómo usar
 
-1. Ingresa a la [demo en línea](https://appetize.io/app/lmjmovr2ykvby6ftuu7j3iotp4) proporcionada para acceder a la aplicación en tu navegador.
+1. Ingresa a la [demo en línea](https://appetize.io/app/s2nbe4tm4y6e3prc7rpa2leeji) proporcionada para acceder a la aplicación en tu navegador.
 2. Explora las diferentes secciones de la aplicación, como el ingreso de gastos y el historial de meses.
 3. Registra tus gastos mensuales.
 4. Utiliza el botón "Historial" para acceder a los meses anteriores y revisar tus gastos históricos.
@@ -32,11 +34,11 @@ Puedes probar la aplicación en línea a través de la plataforma de simulación
 Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
 
 1. Realiza un fork de este repositorio.
-2. Cambia a la rama `main`.
+2. Cambia a la rama `master`.
 3. Realiza los cambios necesarios y realiza commit de tus cambios.
-4. Envía tus cambios al repositorio remoto: `git push origin main`.
+4. Envía tus cambios al repositorio remoto: `git push origin master`.
 5. Abre una pull request en este repositorio.
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia relacionada con este proyecto, no dudes en ponerte en contacto conmigo a través de alan_manuel_gonzalez@hotmail.com.
+Si tienes alguna pregunta o sugerencia relacionada con este proyecto, no dudes en ponerte en contacto conmigo a través de alan.g.dev@hotmail.com
